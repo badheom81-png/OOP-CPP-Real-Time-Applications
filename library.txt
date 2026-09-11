@@ -1,0 +1,3 @@
+978001|C++ Programming|Bjarne|Programming|1
+978002|Data Structures|Mark Allen|Computer Science|1
+978003|Artificial Intelligence|Stuart Russell|AI|1
